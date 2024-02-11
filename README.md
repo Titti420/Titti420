@@ -1,5 +1,4 @@
-Welcome to Titti's GitHub Profile!
-About Me
+
 Hello there! I'm Titti, a passionate Java enthusiast with a keen interest in specific Technology. I love exploring new technologies, solving problems, and collaborating on exciting projects. When I'm not coding, you can find me @home reading or listen to my music.
 
 Projects
